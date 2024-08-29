@@ -14,11 +14,11 @@
   "devDependencies": {
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",
-    "esbuild": "^0.17.10",
+    "esbuild": "^0.23.1",
     "http-server": "^14.1.1",
     "live-server": "^1.2.2",
     "nodemon": "^3.0.2",
-    "prettier": "^2.6.2",
+    "prettier": "^3.3.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
