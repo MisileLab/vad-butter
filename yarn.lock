@@ -251,6 +251,13 @@
   resolved "https://registry.yarnpkg.com/@protobufjs/utf8/-/utf8-1.1.0.tgz#a777360b5b39a1a2e5106f8e858f2fd2d060c570"
   integrity sha512-Vvn3zZrhQZkkBE8LSuW3em98c0FwgO4nxzv6OdSxPKJIEKY2bGbHn+mhGIPerzI4twdxaP8/0+06HBpwf345Lw==
 
+"@ricky0123/vad-web@^0.0.18":
+  version "0.0.18"
+  resolved "https://registry.yarnpkg.com/@ricky0123/vad-web/-/vad-web-0.0.18.tgz#834e93df74dcbcb0c95ff69e018c9271be90733a"
+  integrity sha512-qaw1r8PsFADtxCRybieKTrhI/eO0JaEVH5oy0/oJS/bpq8eJu9mh1myCOR1ncBYYOzEkiJNJRQ638yG6X6WUNA==
+  dependencies:
+    onnxruntime-web "^1.14.0"
+
 "@sinonjs/commons@^2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@sinonjs/commons/-/commons-2.0.0.tgz#fd4ca5b063554307e8327b4564bd56d3b73924a3"
@@ -293,10 +300,10 @@
   resolved "https://registry.yarnpkg.com/@sinonjs/text-encoding/-/text-encoding-0.7.3.tgz#282046f03e886e352b2d5f5da5eb755e01457f3f"
   integrity sha512-DE427ROAphMQzU4ENbliGYrBSYPXF+TtLg9S8vzeA+OF4ZKzoDdzfL8sxuMUGS/lgRhM6j1URSk9ghf7Xo1tyA==
 
-"@types/audioworklet@^0.0.36":
-  version "0.0.36"
-  resolved "https://registry.yarnpkg.com/@types/audioworklet/-/audioworklet-0.0.36.tgz#798cebea90500696ebf0f9c79955aab6d4d37380"
-  integrity sha512-aEE9vSGLA6fF4g9zp6Y2q2UE6GWMYliksQ3VSkR+5n87GqbbbeFiFRwoIBvN5ojc5i6lkIeHfzzNhMdQVNiWMg==
+"@types/audioworklet@^0.0.60":
+  version "0.0.60"
+  resolved "https://registry.yarnpkg.com/@types/audioworklet/-/audioworklet-0.0.60.tgz#c8678343a18ae142b762aa6290eb11f56002e8a3"
+  integrity sha512-BCYklConpVRbPlNVcjzIhRsPWBTbCFSbkfjBC+VLULryaBI1M651y4nK0SMsSuTgtVSrKVY7Y+fsobCjviuDWA==
 
 "@types/body-parser@*":
   version "1.19.5"
